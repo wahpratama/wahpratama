@@ -2,7 +2,7 @@
 <h1 align="center">About Me 👋</h1>
 
 <p align="center">
-  An undergraduate Electrical Engineering student focused on Machine Learning, Embedded Systems, and Electronics.<br/>
+  An undergraduate Electrical Engineering student focused on Robotics, Embedded Systems, and Electronics.<br/>
   Building things from bare-metal firmware🚀
 </p>
 

@@ -3,7 +3,7 @@
 
 <p align="center">
   An undergraduate Electrical Engineering student focused on Machine Learning, Embedded Systems, and Electronics.<br/>
-  Building things from bare-metal firmware to trained models — sometimes at the same time 🚀
+  Building things from bare-metal firmware🚀
 </p>
 
 ---

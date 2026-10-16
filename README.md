@@ -2,7 +2,7 @@
 <h1 align="center">About Me 👋</h1>
 
 <p align="center">
-  An undergraduate Electrical Engineering student focused on Robotics, Embedded Systems, and Electronics.<br/>
+  An undergraduate Electrical Engineering student at Udayana University focused on Robotics, Embedded Systems, and Electronics.<br/>
   Building things from bare-metal firmware🚀
 </p>
 
@@ -45,5 +45,5 @@
 
 
 <p align="center">
-  <sub>EE student. From registers to neural nets. ⚡</sub>
+  <sub>HIDUP ELEKTRO ⚡</sub>
 </p>
